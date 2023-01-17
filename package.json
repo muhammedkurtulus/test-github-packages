@@ -1,0 +1,19 @@
+{
+  "name": "@muhammedkurtulus/test-github-packages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammedkurtulus/test-github-packages.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muhammedkurtulus/test-github-packages/issues"
+  },
+  "homepage": "https://github.com/muhammedkurtulus/test-github-packages#readme"
+}
